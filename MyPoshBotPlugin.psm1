@@ -1,4 +1,4 @@
 function Invoke-JaxHelloWorld
 {
-	Write-Output "Hey Jacksonville PSUG - This module was uploaded using GIT"
+	Write-Output "Hey Jacksonville PSUG - from SDMOORE68 & digikin84"
 }
